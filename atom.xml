@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ch847009.github.io</id>
     <title>志工爺爺</title>
-    <updated>2020-11-18T15:34:16.627Z</updated>
+    <updated>2020-11-19T13:45:44.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ch847009.github.io"/>
     <link rel="self" href="https://ch847009.github.io/atom.xml"/>
@@ -16,15 +16,16 @@
         <link href="https://ch847009.github.io/post/test/">
         </link>
         <updated>2020-11-18T15:13:43.000Z</updated>
-        <summary type="html"><![CDATA[<p>hello world !<br>
-fgjghjgh<br>
-fthyyfthf</p>
-]]></summary>
         <content type="html"><![CDATA[<p>hello world !<br>
-fgjghjgh<br>
-fthyyfthf</p>
-<!-- more -->
-<p>fdghdyhdrydr</p>
+1<br>
+2<br>
+3<br>
+4<br>
+5<br>
+6<br>
+7<br>
+8<br>
+9</p>
 ]]></content>
     </entry>
     <entry>
