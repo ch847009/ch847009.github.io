@@ -631,6 +631,7 @@ a {
   }
   .sidebar.full-height {
     height: 100vh;
+    overflow-y: auto;
   }
   .sidebar .sidebar-content {
     position: absolute;
