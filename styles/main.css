@@ -394,19 +394,22 @@ a {
 .post-item .left .post-title {
   font-size: 24px;
   transition: all 0.3s;
+  padding-bottom: 1.5rem;
 }
 .post-item .left .post-title:hover {
   color: #212529;
 }
 .post-item .left .post-date {
   font-size: 18px;
-  padding: 24px 0;
   color: #adb5bd;
 }
 .post-item .left .post-abstract {
   line-height: 24px;
   font-size: 18px;
   color: #868e96;
+}
+.post-item .left .post-abstract p {
+  padding: 0.5rem 0;
 }
 .post-item .right {
   flex-shrink: 0;
@@ -453,7 +456,6 @@ a {
 }
 .post-detail .post-date {
   font-size: 18px;
-  padding: 24px 0;
   color: #adb5bd;
 }
 .post-detail .post-content h1,
@@ -712,7 +714,6 @@ a {
   }
   .post-item .left .post-date {
     font-size: 16px;
-    padding: 16px 0;
   }
   .post-item .left .post-abstract {
     font-size: 16px;
@@ -726,7 +727,6 @@ a {
   }
   .post-detail .post-date {
     font-size: 16px;
-    padding: 16px 0;
   }
   .post-detail .feature-container {
     margin-bottom: 16px;
