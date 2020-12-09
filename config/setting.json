@@ -1,0 +1,28 @@
+{
+  "config": {
+    "branch": "gh-pages",
+    "cname": "gigonyeye.me",
+    "domain": "https://gigonyeye.me",
+    "email": "chen847009@gmail.com",
+    "platform": "github",
+    "privateKey": "",
+    "repository": "ch847009.github.io",
+    "token": "99d303f4a01b2c9573533b44ed5f7ec6f5208288",
+    "username": "ch847009"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "archivesPath": "archives",
+    "dateFormat": "YYYY-MM-DD",
+    "feedCount": 10,
+    "feedFullText": true,
+    "footerInfo": "Powered by <a href=\"https://github.com/getgridea/gridea\" target=\"_blank\">Gridea</a>",
+    "postPageSize": 10,
+    "postPath": "post",
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "志工爺爺的官方網站",
+    "siteName": "志工爺爺",
+    "tagPath": "tag",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "simple"
+  },
+  "customConfig": {
+    "contentBgColor": "#f8f9fa",
+    "customCss": "",
+    "customSidebar": "<iframe src=\"https://www6.cbox.ws/box/?boxid=853060&boxtag=b76l40\" width=\"100%\" height=\"450\" allowtransparency=\"yes\" allow=\"autoplay\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"auto\"></iframe>\t",
+    "facebook": "",
+    "featureBorderRadius": "3px",
+    "ga": "",
+    "github": "",
+    "menuColor": "#dee2e6",
+    "renderCode": false,
+    "renderKaTeX": false,
+    "sidebarWidth": "320px",
+    "twitter": "",
+    "weibo": "",
+    "zhihu": ""
+  }
+}
